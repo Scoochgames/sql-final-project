@@ -99,3 +99,6 @@ This route is the one that takes the time to complete. Moscow to Bratsk is a lon
 - The longest routes are the ones that connect Moscow to cities that're really far east or in Siberia. These routes are very long. They connect Moscow to far eastern cities or to cities, in Siberia.
 
 These insights collectively show how SQL can be used to extract meaningful operational, financial, and structural insights from raw airline data, revealing patterns in pricing, fleet usage, network design, and reliability.
+
+#### Note:
+I cannot add the database because it exeeds GitHub's maximm file size. The link to the Kaggle site I got it from is: https://www.kaggle.com/datasets/saadharoon27/airlines-dataset
